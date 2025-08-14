@@ -1,0 +1,11 @@
+Name: G. Deva Sree
+Corse: BCA
+* Using GitHub I learned how to create repository, uploading files and editing *
+
+link:https://github.com/Gdevasree/repo-2
+
+link 4:https://github.com/Gdevasree/repo-3/blob/main/SDLC.drawio.png
+
+link (repo-4)-student info:https://github.com/Gdevasree/repo-4
+
+link (repo-5)-face recognition system: https://github.com/Gdevasree/repo-5 
